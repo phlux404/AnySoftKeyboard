@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        description="@string/welsh_dictionary_description"
+        dictionaryResourceId="@array/welsh_words_dict_array"
+        id="fa7382ae-bc47-4741-bd1d-10be97d973a2"
+        initialSuggestions="@array/welsh_initial_suggestions"
+        locale="cy"
+        nameResId="@string/welsh_dictionary"
+        type="binary_resource" />
+</Dictionaries>

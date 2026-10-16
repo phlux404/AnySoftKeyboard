@@ -1,0 +1,11 @@
+ext.shouldBePublished = false
+ext.notPublishingReason = "Initial version has not been published yet"
+ext.override_app_id = 'com.menny.anysoftkeyboard.welsh'
+apply from: "$rootDir/addons/gradle/pack_apk.gradle"
+dependencies {
+    implementation project(path: ':addons:languages:welsh:pack')
+}
+
+android {
+    namespace 'com.menny.anysoftkeyboard.welsh'
+}

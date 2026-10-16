@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welsh_dictionary_description">Cymraeg</string>
+    <string name="welsh_keyboard_description">QWERTY Welsh keyboard with circumflex accents (ŵ ŷ â ê î ô û)</string>
+</resources>

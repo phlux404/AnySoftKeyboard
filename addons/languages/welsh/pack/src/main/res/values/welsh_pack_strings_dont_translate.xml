@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+    tools:ignore="MissingTranslation,TypographyDashes">
+    <string name="welsh_dictionary">Cymraeg</string>
+    <string name="welsh_keyboard">Cymraeg</string>
+    <string name="main_welsh_keyboard_id">7b6e6ca9-2722-4ee1-8c36-377dae65d58c</string>
+
+        <string-array name="welsh_initial_suggestions">
+        <item>mae</item>
+        <item>yn</item>
+        <item>diolch</item>
+        <item>bore</item>
+        <item>da</item>
+        <item>iawn</item>
+        <item>cymru</item>
+        <item>,</item>
+        <item>\?</item>
+        <item>!</item>
+        <item>\'</item>
+    </string-array>
+</resources>

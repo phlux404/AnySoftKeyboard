@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard
+        nameResId="@string/welsh_keyboard"
+        iconResId="@drawable/ic_status_welsh"
+        layoutResId="@xml/welsh_qwerty"
+        id="@string/main_welsh_keyboard_id"
+        defaultDictionaryLocale="cy"
+        description="@string/welsh_keyboard_description"
+        index="1"
+        defaultEnabled="true"
+        physicalKeyboardMappingResId="@xml/welsh_physical" />
+</Keyboards>

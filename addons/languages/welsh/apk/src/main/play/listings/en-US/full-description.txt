@@ -1,0 +1,5 @@
+Welsh (Cymraeg) language pack for AnySoftKeyboard.
+
+QWERTY layout with Welsh circumflex letters (â ê î ô û ŵ ŷ) and a Welsh dictionary.
+
+Work in progress.

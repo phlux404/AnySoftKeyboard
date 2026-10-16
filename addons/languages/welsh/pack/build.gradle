@@ -1,0 +1,8 @@
+ext.status_icon_text = "cy"
+ext.dictionaryInputPossibleCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzâêîôûŵŷÂÊÎÔÛŴŶáàéèíìóòúùẃẁýỳäëïöüẅÿÁÀÉÈÍÌÓÒÚÙẂẀÝỲÄËÏÖÜẄŸ".toCharArray()
+ext.dictionaryInputAdditionalInnerCharacters = "'".toCharArray()
+apply from: "$rootDir/addons/gradle/language_pack_lib.gradle"
+
+android {
+    namespace 'com.anysoftkeyboard.languagepack.welsh'
+}
